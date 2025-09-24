@@ -13,7 +13,7 @@ It creates a random password containing uppercase letters, lowercase letters, nu
   - Numbers (`0-9`)
   - Special characters (`!@#$%^&*().`)
 
----
+--------
 
 🛠️ How It Works
 The function `generatePassword(length)`:
