@@ -1,6 +1,6 @@
 # password-generator
 
-This is a simple password generator written in **JavaScript**.  
+This is a simple password generator.  
 It creates a random password containing uppercase letters, lowercase letters, numbers, and special characters.
 
 ---
